@@ -14,5 +14,6 @@ public class AllureLogger {
 
     public static void attachText(String title, String text) {
         Allure.addAttachment(title, "text/plain", text);
+        
     }
 }
