@@ -1,0 +1,5 @@
+api\payloads\User.class
+api\tests\UsersTests.class
+api\utilities\AllureLogger.class
+api\endpoints\UserEndpoints.class
+api\endpoints\Routes.class

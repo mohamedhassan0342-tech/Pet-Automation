@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3091","testReadUser","petAutomation","Fri Feb 06 21:42:35 IST 2026","passed","Fri Feb 06 21:42:38 IST 2026","api.tests.UsersTests","API","api.tests.UsersTests","testReadUser"
+"","2074","testUpdateUser","petAutomation","Fri Feb 06 21:42:38 IST 2026","passed","Fri Feb 06 21:42:40 IST 2026","api.tests.UsersTests","API","api.tests.UsersTests","testUpdateUser"
+"","6078","testCreateUser","petAutomation","Fri Feb 06 21:42:28 IST 2026","passed","Fri Feb 06 21:42:34 IST 2026","api.tests.UsersTests","API","api.tests.UsersTests","testCreateUser"
+"","2337","testDeleteUser","petAutomation","Fri Feb 06 21:42:40 IST 2026","passed","Fri Feb 06 21:42:42 IST 2026","api.tests.UsersTests","API","api.tests.UsersTests","testDeleteUser"
